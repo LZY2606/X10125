@@ -34,3 +34,6 @@ coverage/
 .vite/
 .turbo/
 *.tsbuildinfo
+
+# 本项目运行时状态（内容寻址 blob 与账本）
+.lineage/
