@@ -34,3 +34,6 @@ coverage/
 .vite/
 .turbo/
 *.tsbuildinfo
+
+# --- 账本状态（本地数据，不进版本库）---
+.ledger/
